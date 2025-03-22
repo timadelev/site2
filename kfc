@@ -1,0 +1,52 @@
+<html>
+<title></title>
+
+<body style="text-align:center;font-family:sans-serif;background-color:lightgrey">
+    <header style="text-align:center">
+        <!-- Шапка: назва сайту, логотип, посилання -->
+        <h1 style="font-size:50px; background-color:lightblue;color:blue">KFC</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png" width="75px">
+        В 40 років цей полковник якого звали Харланд Садерс почав готувати страви з курки але він не мав ресторану тому в 1940 році він вирішив заснувати велику сіть ресторанів для того щоб люди не страждали від великої депресії яку він назвав KFC або ж як з повного перекладу "кентуккі смажена курка".
+        <br>
+        <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2%D0%BD%D0%B8%D0%BA_%D0%A1%D0%B0%D0%BD%D0%B4%D0%B5%D1%80%D1%81">Детальніше про полковника Садерса</a>
+        <br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Col._Harland_Sanders%27_Portrait_Commissioned_by_Winston_L._Shelton.jpg/250px-Col._Harland_Sanders%27_Portrait_Commissioned_by_Winston_L._Shelton.jpg" width="200px"> 
+    </header>
+    <main>
+        <!-- Основна інформація сайту -->
+        <h2 style="font-size:40px;background-color:lightgreen;color:green">Меню</h2>
+     <table style="border:1px solid firebrick;color:red; border-collapse:collapse">
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Назва</td>
+            <td>Склад та страви схожого типу</td>
+            <td>Ціна</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Закуска</td>
+            <td>Курячі стріпси, нагетси, картопля фрі. Склад: Курка та картопля.</td>
+            <td>Від 70 до 200 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Бургери</td>
+            <td>Шеф-бургер,Сандерс бургер, чізбургер,Італійський Бургер,Грандер Барбекю та багато інших.</td>
+            <td>від 38 до 189 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Напої</td>
+            <td>Ірландська кава, Лате, Капучино, Американо,Чай.</td>
+            <td>від 37 до 85 грн</td>
+        </tr>
+        <tr style="border:1px solid firebrick;font-size:20px">
+            <td>Десерти</td>
+            <td>Донати, пиріжки, сінабон, морозиво.</td>
+            <td>від 37 до 85 грн</td>
+        </tr>
+    </table>
+    </main>
+    <footer style="color:orange">
+        <!-- Підвал з додатковою інформацією та підписом автора -->
+      Найкращі бургери та смачна, гаряча курка!
+    </footer>
+</body>
+
+</html>  
